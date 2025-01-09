@@ -1,0 +1,3 @@
+interface ManClother {
+    void wearMan();
+}
